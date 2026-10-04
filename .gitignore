@@ -1,0 +1,25 @@
+# Raw dataset (144 MB) - download separately from Kaggle
+data/creditcard.csv
+data/*.csv
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
